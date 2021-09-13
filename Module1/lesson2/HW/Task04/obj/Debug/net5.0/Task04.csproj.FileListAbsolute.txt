@@ -1,0 +1,16 @@
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\Task04.exe
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\Task04.deps.json
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\Task04.runtimeconfig.json
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\Task04.runtimeconfig.dev.json
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\Task04.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\ref\Task04.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\bin\Debug\net5.0\Task04.pdb
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.csproj.AssemblyReference.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.AssemblyInfoInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.AssemblyInfo.cs
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.csproj.CoreCompileInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\ref\Task04.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.pdb
+C:\Users\Егор Шарапов\RiderProjects\HW-2\Task04\obj\Debug\net5.0\Task04.genruntimeconfig.cache
