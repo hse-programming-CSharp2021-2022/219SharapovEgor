@@ -1,0 +1,16 @@
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.csproj.AssemblyReference.cache
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.AssemblyInfoInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.AssemblyInfo.cs
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.csproj.CoreCompileInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\CW-5.exe
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\CW-5.deps.json
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\CW-5.runtimeconfig.json
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\CW-5.runtimeconfig.dev.json
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\CW-5.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\ref\CW-5.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\bin\Debug\net5.0\CW-5.pdb
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\ref\CW-5.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.pdb
+C:\Users\Егор Шарапов\RiderProjects\CW-5\CW-5\obj\Debug\net5.0\CW-5.genruntimeconfig.cache
