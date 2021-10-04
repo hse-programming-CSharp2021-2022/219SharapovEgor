@@ -1,0 +1,16 @@
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\HW-8.exe
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\HW-8.deps.json
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\HW-8.runtimeconfig.json
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\HW-8.runtimeconfig.dev.json
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\HW-8.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\ref\HW-8.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\bin\Debug\net5.0\HW-8.pdb
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.csproj.AssemblyReference.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.AssemblyInfoInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.AssemblyInfo.cs
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.csproj.CoreCompileInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\ref\HW-8.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.pdb
+C:\Users\Егор Шарапов\RiderProjects\HW-8\HW-8\obj\Debug\net5.0\HW-8.genruntimeconfig.cache

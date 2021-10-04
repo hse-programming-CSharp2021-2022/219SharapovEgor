@@ -1,0 +1,16 @@
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\CW-8.exe
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\CW-8.deps.json
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\CW-8.runtimeconfig.json
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\CW-8.runtimeconfig.dev.json
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\CW-8.dll
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\ref\CW-8.dll
+C:\Users\shara\RiderProjects\CW-8\CW-8\bin\Debug\net5.0\CW-8.pdb
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.csproj.AssemblyReference.cache
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.AssemblyInfoInputs.cache
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.AssemblyInfo.cs
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.csproj.CoreCompileInputs.cache
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.dll
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\ref\CW-8.dll
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.pdb
+C:\Users\shara\RiderProjects\CW-8\CW-8\obj\Debug\net5.0\CW-8.genruntimeconfig.cache
