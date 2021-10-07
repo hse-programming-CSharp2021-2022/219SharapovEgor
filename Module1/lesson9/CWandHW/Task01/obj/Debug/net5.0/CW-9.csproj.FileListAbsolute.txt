@@ -1,0 +1,16 @@
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\CW-9.exe
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\CW-9.deps.json
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\CW-9.runtimeconfig.json
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\CW-9.runtimeconfig.dev.json
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\CW-9.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\ref\CW-9.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\bin\Debug\net5.0\CW-9.pdb
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.csproj.AssemblyReference.cache
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.AssemblyInfoInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.AssemblyInfo.cs
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.csproj.CoreCompileInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\ref\CW-9.dll
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.pdb
+C:\Users\Егор Шарапов\RiderProjects\CW-9\CW-9\obj\Debug\net5.0\CW-9.genruntimeconfig.cache
