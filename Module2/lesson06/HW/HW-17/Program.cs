@@ -56,7 +56,6 @@ namespace HW17
                 {
                     using (StreamWriter sw = new StreamWriter(".txt"))
                     {
-
                     }
                 }
             }
@@ -67,8 +66,8 @@ namespace HW17
             
             try
             {
-                int[] testException = new int[1];
-                testException[0] = int.Parse("Ауф");
+                int[] arr = new int[1];
+                arr[0] = int.Parse("Ауф");
             }
             catch (FormatException)
             {
@@ -96,9 +95,9 @@ namespace HW17
             
             try
             {
-                StringBuilder sb = new StringBuilder(15, 15);
-                sb.Append("ваввававаавав");
-                sb.Insert(0, "аваавваввава ", 1);
+                StringBuilder stringBuilder = new StringBuilder(15, 15);
+                stringBuilder.Append("ваввававаавав");
+                stringBuilder.Insert(0, "аваавваввава ", 1);
             }
             catch (OutOfMemoryException)
             {
@@ -107,8 +106,8 @@ namespace HW17
             
             try
             {
-                String testException = null;
-                Console.WriteLine("в".IndexOf(testException));
+                string op = null;
+                Console.WriteLine("в".IndexOf(op));
             }
             catch (ArgumentNullException)
             {
