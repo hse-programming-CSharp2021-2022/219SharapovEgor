@@ -1,0 +1,16 @@
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\VARIANT2.exe
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\VARIANT2.deps.json
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\VARIANT2.runtimeconfig.json
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\VARIANT2.runtimeconfig.dev.json
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\VARIANT2.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\ref\VARIANT2.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\bin\Debug\net5.0\VARIANT2.pdb
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.csproj.AssemblyReference.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.AssemblyInfoInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.AssemblyInfo.cs
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.csproj.CoreCompileInputs.cache
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\ref\VARIANT2.dll
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.pdb
+C:\Users\Егор Шарапов\RiderProjects\HW-18\VARIANT2\obj\Debug\net5.0\VARIANT2.genruntimeconfig.cache

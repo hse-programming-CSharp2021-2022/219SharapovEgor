@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VARIANT1", "VARIANT1\VARIANT1.csproj", "{DE1E4607-28AB-4E0F-9410-DA42640541D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VARIANT2", "VARIANT2\VARIANT2.csproj", "{5EAC1050-CE8D-4035-826C-C5CC73EC9749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1E4607-28AB-4E0F-9410-DA42640541D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1E4607-28AB-4E0F-9410-DA42640541D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1E4607-28AB-4E0F-9410-DA42640541D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1E4607-28AB-4E0F-9410-DA42640541D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAC1050-CE8D-4035-826C-C5CC73EC9749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAC1050-CE8D-4035-826C-C5CC73EC9749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAC1050-CE8D-4035-826C-C5CC73EC9749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAC1050-CE8D-4035-826C-C5CC73EC9749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
