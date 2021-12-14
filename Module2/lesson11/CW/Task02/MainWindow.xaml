@@ -1,0 +1,42 @@
+﻿<Window
+    x:Class="Task02.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Task02"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <TextBox
+            x:Name="tBox"
+            Width="300"
+            Height="300"
+            MinWidth="150"
+            MinHeight="150"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" />
+        <Button
+            Width="96"
+            Height="20"
+            MinWidth="10"
+            MinHeight="48"
+            Margin="0,0,10,0"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Center"
+            Click="ButtonShow_Click"
+            Content="Показать" />
+        <Button
+            Width="96"
+            Height="20"
+            MinWidth="10"
+            MinHeight="48"
+            Margin="10,0,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Center"
+            Click="ButtonDel_Click"
+            Content="Отчистить" />
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Task07
+build_property.ProjectDir = F:\Kratosterra\Загрузки\219ArtemovNikita-main (1)\219ArtemovNikita-main\Module_02\seminar_12\HW\Task07\

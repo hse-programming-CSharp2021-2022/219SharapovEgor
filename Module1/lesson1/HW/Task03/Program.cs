@@ -6,11 +6,8 @@ namespace Task03
     {
         static void Main(string[] args)
         {
-            int num;
-            string ent = Console.ReadLine();
-            int.TryParse(ent, out num);
-            char ans = (char) num;
-            Console.WriteLine(ans);
+            Console.Writeline(Convert.ToString(new char[]{'У', 'р', 'a'}))
+
         }
     }
 }
