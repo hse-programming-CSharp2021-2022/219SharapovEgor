@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW-2", "CW-2\CW-2.csproj", "{271F21C2-A963-402F-AFC0-0E0755B14E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02", "Task02\Task02.csproj", "{6A7A9FFD-0DD7-4E0B-85C7-628A27D5E4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task03_Temperature", "Task03_Temperature\Task03_Temperature.csproj", "{171F5219-FFB2-450A-BF25-AE0B5A62261D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271F21C2-A963-402F-AFC0-0E0755B14E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271F21C2-A963-402F-AFC0-0E0755B14E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271F21C2-A963-402F-AFC0-0E0755B14E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271F21C2-A963-402F-AFC0-0E0755B14E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7A9FFD-0DD7-4E0B-85C7-628A27D5E4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7A9FFD-0DD7-4E0B-85C7-628A27D5E4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7A9FFD-0DD7-4E0B-85C7-628A27D5E4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7A9FFD-0DD7-4E0B-85C7-628A27D5E4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171F5219-FFB2-450A-BF25-AE0B5A62261D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171F5219-FFB2-450A-BF25-AE0B5A62261D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171F5219-FFB2-450A-BF25-AE0B5A62261D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171F5219-FFB2-450A-BF25-AE0B5A62261D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
