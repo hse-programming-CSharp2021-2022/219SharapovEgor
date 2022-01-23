@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Task01
-{
+{//Task01
     public delegate void CoordChanged(Dot x);
     public class Dot
     {

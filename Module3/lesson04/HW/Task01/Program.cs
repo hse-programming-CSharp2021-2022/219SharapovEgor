@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Task01
-{
+{//Task01
     public class RingIsFoundEventArgs : EventArgs
     {
         public RingIsFoundEventArgs(string s)
