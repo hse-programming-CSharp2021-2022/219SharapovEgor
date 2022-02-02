@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzLK6Yv9A/h3NwLONnrUAsHoK/XIMdpcw0+iV8tuW9vZpdRsPdmUEMW2Mr7Eug82p/2Ywp9eWOMUI2l7KlyW6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Егор Шарапов\\RiderProjects\\CW-6\\Task01\\Task01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор Шарапов\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Егор Шарапов\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
