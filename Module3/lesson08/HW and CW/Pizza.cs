@@ -1,0 +1,15 @@
+﻿using System;
+using PizzaStuff.Recipes;
+
+namespace PizzaStuff
+{
+    public sealed class Pizza
+    {
+        public string Name { get; init; }
+
+        public Pizza(PizzaRecipe recipe)
+        {
+            Name = recipe.Name;
+        }
+    }
+}
