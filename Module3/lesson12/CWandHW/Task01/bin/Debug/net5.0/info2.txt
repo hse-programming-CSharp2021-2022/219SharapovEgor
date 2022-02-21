@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <Student>
+      <Name>Dudarev</Name>
+      <Year>1000</Year>
+    </Student>
+    <Student>
+      <Name>Juikin</Name>
+      <Year>-10</Year>
+    </Student>
+  </Students>
+  <Name>Lol</Name>
+</Group>
